@@ -1,3 +1,3 @@
 ## Training
 
-Git drop folder for training materials.
+Git folder for training projects.
