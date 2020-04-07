@@ -1,1 +1,1 @@
-This project replicates VIX calculation.
+This project replicates CBOE VIX index calculation.
