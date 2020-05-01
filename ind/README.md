@@ -1,0 +1,1 @@
+This project implements indicators following a Kaggle project.
